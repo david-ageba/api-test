@@ -18,7 +18,8 @@ Feature: CHECK API STATUS
     Then the response status should be "201"
     
     
-    INSTRUCTION
-    1. Create a working API automation testing framework using a programming language of your choice
-    2. Create new branch and Push your code back to github
+
+INSTRUCTION
+   1. Create a working API automation testing framework using a programming language of your choice
+   2. Create new branch and Push your code back to github
     
